@@ -25,4 +25,4 @@ To run the game locally, follow these steps:
    cd CandyCrush
 2. Start the game:
    ```bash
-   ./ cmake-build-debug/CandyCrush.exe
+   ./cmake-build-debug/CandyCrush.exe
