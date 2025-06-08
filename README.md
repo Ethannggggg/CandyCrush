@@ -24,5 +24,5 @@ To run the game locally, follow these steps:
    git clone https://github.com/Ethannggggg/CandyCrush.git
    cd CandyCrush
 2. Start the game:
-   '''bash
-   ./ CandyCrush.exe
+   ```bash
+   ./ cmake-build-debug/CandyCrush.exe
